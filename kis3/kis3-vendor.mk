@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/zte/kis3/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/zte/kis3/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/zte/kis3/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/zte/kis3/proprietary/bin/radish:system/bin/radish \
     vendor/zte/kis3/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/zte/kis3/proprietary/bin/rmt_storage:system/bin/rmt_storage \
